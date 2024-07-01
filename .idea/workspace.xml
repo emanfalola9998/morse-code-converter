@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7bcbbc78-c255-47eb-a806-1fde0fc783bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/.idea/java-yuma.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/CalculatorTest/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/CalculatorTest/src/main/java/org/example/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/CalculatorTest/src/test/java/CalculatorTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/CalculatorTest/src/test/java/org/example/FilmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/enums-abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/CanMakeSound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/DaysOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/enums-abstract/src/Swan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/example/src/main/java/org/example/Arsenal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/example/src/main/java/org/example/PremierLeague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/jUnit/.idea/jUnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/jUnit/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/jUnit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/jUnit/ManualCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/jUnit/out/production/jUnit/.idea/jUnit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-intro/java-intro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-intro/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-intro/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-intro/src/Celebrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-intro/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-intro/src/Yuma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-yuma/java-projects/Hangman/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MorseCodePackage/Commander.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MorseCodePackage/MorseCodeTranslator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MorseCodePackage/TranslatorService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/MorseCodeServiceTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/MorseCodeTranslatorTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-intro/scala-intro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/.idea/modules/scala-notes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/.idea/modules/scala-notes.scala-notes-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp1/Data.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp1/example.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp2/Options.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp2/Pairs.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp3/Implicit.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp3/Lazy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp4/Currying.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/fp4/Partial.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Book.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Counter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Library.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Logger.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Person.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop1/Playground.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop2/AbstractAndTraits.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop2/CaseClasses.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop2/TryCatch.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop3/ForComprehensions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop3/Generics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala-notes/src/main/scala/oop3/PatternMatching.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2iQ9QycR4y7NmmmSR8jty85bwGb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Commander.executor": "Run",
+    "Application.MorseCodeTranslatorApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ScalaTest.MorseCodeServiceTest.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should return a morse code with the original string present.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should return a morse code with the orignal string present.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should return a string with alphabet characters with the original morse string present.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should return a string with morse code and original string present\ntranslator service should return a morse code with the orignal string present.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should return a string with morse code and original string present.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should throw an exception when a alphabet character is used.executor": "Run",
+    "ScalaTest.MorseCodeServiceTest.translator service should throw an exception when a non-alphabet character is used.executor": "Run",
+    "ScalaTest.MorseCodeTranslatorTest.MorseCodeTranslator should convert a character to morse code\nMorseCodeTranslator should convert a string to morse code.executor": "Run",
+    "ScalaTest.MorseCodeTranslatorTest.MorseCodeTranslator should convert a character to morse code.executor": "Run",
+    "ScalaTest.MorseCodeTranslatorTest.MorseCodeTranslator should convert a string to morse code.executor": "Run",
+    "ScalaTest.MorseCodeTranslatorTest.MorseCodeTranslator should convert morse code to string.executor": "Run",
+    "ScalaTest.MorseCodeTranslatorTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Commander">
+    <configuration name="Commander" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MorseCodePackage.Commander" />
+      <module name="MorseCodeTranslator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCodeServiceTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="MorseCodeTranslator" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <option name="testClassPath" value="MorseCodeServiceTest" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCodeServiceTest.translator service should return a string with alphabet characters with the original morse string present" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="MorseCodeTranslator" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <option name="testClassPath" value="MorseCodeServiceTest" />
+      <option name="testName" value="translator service should return a string with alphabet characters with the original morse string present" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCodeTranslatorTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="MorseCodeTranslator" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <option name="testClassPath" value="MorseCodeTranslatorTest" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MorseCodeTranslatorTest.MorseCodeTranslator should convert morse code to string" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="MorseCodeTranslator" />
+      <option name="VMParameters" value="" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="alternativeJrePath" />
+      <option name="alternativeJrePathEnabled" value="false" />
+      <option name="classpathModifications">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="passParentEnvs" value="true" />
+      <option name="programParameters" value="" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <option name="testClassPath" value="MorseCodeTranslatorTest" />
+      <option name="testName" value="MorseCodeTranslator should convert morse code to string" />
+      <option name="workingDirectory" value="C:\Users\emman\Developer\nology\scala\MorseCodeTranslator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Commander" />
+        <item itemvalue="ScalaTest.MorseCodeServiceTest" />
+        <item itemvalue="ScalaTest.MorseCodeTranslatorTest" />
+        <item itemvalue="ScalaTest.MorseCodeTranslatorTest.MorseCodeTranslator should convert morse code to string" />
+        <item itemvalue="ScalaTest.MorseCodeServiceTest.translator service should return a string with alphabet characters with the original morse string present" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7bcbbc78-c255-47eb-a806-1fde0fc783bb" name="Changes" comment="" />
+      <created>1719411925413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719411925413</updated>
+    </task>
+    <servers />
+  </component>
+</project>
